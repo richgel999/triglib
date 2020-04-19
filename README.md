@@ -7,4 +7,6 @@ Originally published in Rainbow Magazine, April 1986, page 238:
 
 https://archive.org/details/rainbowmagazine-1986-04/page/n239/mode/2up
 
+Note: The CoCo OS9 double format is different from IEEE doubles. The LSB of the low byte (byte offset 0) contains the sign bit, and the highest byte (offset 7) contains the exponent. The rest is the mantissa:
 
+https://colorcomputerarchive.com/repo/Documents/Manuals/Programming/C%20Compiler%20User's%20Guide%20(nitros9).pdf
