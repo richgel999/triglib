@@ -1,5 +1,6 @@
 # triglib
 C double precision trigonometry functions originally for  Tandy Color Computer (CoCo) OS9.
+
 Written by Al Buist. License is Public Domain.
 
 Originally published in Rainbow Magazine, April 1986, page 238:
